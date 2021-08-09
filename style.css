@@ -1,0 +1,42 @@
+.done {
+    text-decoration: line-through;
+}
+
+body {
+    font: "Raleway" sans-serif;
+    color: rgba(0,0,0,0.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.5em;
+    top: 15%;
+    background: linear-gradient(to right, rgb(0,191,255), rgb(255,0,128));
+}
+h1 {
+    font: 600 3.5em 'Raleway', sans-serif;
+    color: rgba(0,0,0,0.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.5em;
+    width: 100%;
+
+}
+
+.select {
+    text-align: left;
+}
+
+.home {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+button {
+    background-color: rgba(0,0,0,0);
+}
+
+h3 {
+    font-size: small;
+}
